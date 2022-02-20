@@ -27,3 +27,4 @@ Studying Programming Algorithm by Python
 
 - with 파이썬알고리즘인터뷰 by 박상길
 - with leetcode.com
+- 각 문제는 leetcode의 문제를 이용했으며 각 문제의 문제번호를 명시함
