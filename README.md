@@ -1,4 +1,4 @@
-# AlgorithmwithPython
+# Algorithm with Python
 Studying Programming Algorithm by Python
 
 
